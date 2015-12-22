@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php 
+
+	$char="";
+	for($i = 0; $i<10; $i++)
+	{
+		$num = rand(97, 122);
+		$char .= chr($num);
+
+	}
+			printf($char);
+?>   
+</body>
+</html>
