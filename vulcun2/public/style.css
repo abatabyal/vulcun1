@@ -1,0 +1,16 @@
+.messagebox {
+  border: 1px solid black;
+  width: 500px;
+  height: 550px;
+  overflow: auto;
+}
+
+.message {
+  margin: 1px;
+  background-color: white;
+}
+
+.inputform {
+  margin: 5px 1px;
+  background-color: white;
+}
